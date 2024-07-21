@@ -1,3 +1,4 @@
 a=int(input("введіть число 1"))
 b=int(input("введіть число 2"))
-print(a+b)
+с=int(input("введіть число 1"))
+print(a+b*с)
